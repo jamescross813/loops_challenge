@@ -1,4 +1,5 @@
 #Write your function here
+def divisible_by_ten(nums):
 
 
 #Uncomment the line below when your function is done
