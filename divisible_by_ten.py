@@ -6,4 +6,4 @@ def divisible_by_ten(nums):
             counter+=1
     return counter
 #Uncomment the line below when your function is done
-#print(divisible_by_ten([20, 25, 30, 35, 40]))
+print(divisible_by_ten([20, 25, 30, 35, 40]))
