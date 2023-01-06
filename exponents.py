@@ -7,4 +7,4 @@ def exponents(bases, powers):
     return newlst
 
 #Uncomment the line below when your function is done
-#print(exponents([2, 3, 4], [1, 2, 3]))
+print(exponents([2, 3, 4], [1, 2, 3]))
