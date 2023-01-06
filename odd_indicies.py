@@ -1,4 +1,5 @@
 #Write your function here
+def odd_indices(lst):
 
 
 #Uncomment the line below when your function is done
