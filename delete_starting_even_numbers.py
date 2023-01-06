@@ -1,6 +1,6 @@
 #Write your function here
 def delete_starting_evens(lst):
-    while lst[0]%2==0:
+    while len(lst) > 0 and lst[0]%2==0:
         lst.pop(0)
     return lst
 
